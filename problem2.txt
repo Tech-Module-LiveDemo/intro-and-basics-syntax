@@ -1,1 +1,2 @@
 // Kъв е тоя празен файл?
+Hello Gosho and Alen! 
